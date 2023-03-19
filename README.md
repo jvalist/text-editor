@@ -4,6 +4,8 @@
 ## Description
 You can use this site to edit text like an online version of vscode but it can also be installed if you want to use it locally as it is a progressive web app!
 
+Check it out here: https://text-editor-jv2023.herokuapp.com/
+
 ## Installation
 npm i
 
